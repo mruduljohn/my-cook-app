@@ -1,6 +1,6 @@
-# myapp
+# my-cook-app
 
-A new Flutter project.
+Our First Flutter Learning project.
 
 ## Getting Started
 
